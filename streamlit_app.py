@@ -31,7 +31,7 @@ st.header("Hubungi Kami")
 nama = st.text_input("Nama Lengkap")
 pesan = st.text_area("Tulis pesan Anda disini")
 if st.button("kirim Pesan"):
-    st.success(f"Terima Kasih {nama}! Pesan Anda
+    st.success(f"Terima Kasih {nama}! Pesan Anda")
 telah terkirim. Kami akan merespon Secepatnya.")
 # Footer
 st.markdwon("---")
