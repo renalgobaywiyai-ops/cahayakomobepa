@@ -2,11 +2,11 @@ import streamlit as st
 # Konfigurasi halaman
 st.set_page_config(
     page_title="Cahaya Komobepa",
-    page_icon="*"
+    page_icon="✨"
     layout="wide"
 )
 # Judul Utama
-st.title("Cahaya Komobepa")
+st.title("✨Cahaya Komobepa")
 st.subheader("Selamat Datang Di Website Resmi Kami")
 # Garis Pemisah
 st.markdwon("---")
