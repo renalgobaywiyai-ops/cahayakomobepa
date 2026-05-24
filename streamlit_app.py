@@ -25,8 +25,7 @@ st.header("Apa yang Kami Sajikan?")
 col1, = st.columns(1)
 with col1:
    st.subheader("Informasi")
-   st.write("Berbagai artikel dan pengetahuan
-seputar topik yang bermanfaat untuk Anda.")
+   st.write("Berbagai artikel dan pengetahuan seputar topik yang bermanfaat untuk Anda.")
 # Bagi Kontak
 st.header("Hubungi Kami")
 nama = st.text_input("Nama Lengkap")
