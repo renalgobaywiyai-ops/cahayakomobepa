@@ -7,8 +7,7 @@ st.set_page_config(
 )
 # Judul Utama
 st.title("Cahaya Komobepa")
-st.subheader("Selamat Datang Di Website Resmi 
-Kami")
+st.subheader("Selamat Datang Di Website Resmi Kami")
 # Garis Pemisah
 st.markdwon("---")
 # Bagian Tentang Kami
